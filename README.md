@@ -1,4 +1,3 @@
-# Assignment No. 4
 # ELMO 
 
 ## Packages Required
